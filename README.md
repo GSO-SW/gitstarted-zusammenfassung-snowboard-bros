@@ -37,7 +37,7 @@ Holt einen einzelnen Commit aus einem anderen Branch in deinen aktuellen Branch.
 git rebase:
 Verschiebt deine Änderungen auf einen anderen Stand, als ob du später angefangen hättest. Der Verlauf sieht danach sauberer aus.
 
-git reset
+git reset:
 Setzt dein Projekt zurück auf einen früheren Zustand.
 
 --soft: nur der Commit wird zurückgenommen.
@@ -48,4 +48,8 @@ Setzt dein Projekt zurück auf einen früheren Zustand.
 
 
 3.Git Befehle für die Arbeit mit entfernten Repositories
+
+git clone <URL>:
+Lädt ein komplettes Remote-Repository lokal herunter.
+
 
