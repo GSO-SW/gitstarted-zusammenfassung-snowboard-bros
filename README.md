@@ -34,6 +34,8 @@ Fügt zwei Branches zusammen. Die Änderungen aus einem anderen Branch werden in
 git cherry-pick:
 Holt einen einzelnen Commit aus einem anderen Branch in deinen aktuellen Branch. Nützlich, wenn du nur eine bestimmte Änderung brauchst.
 
+git rebase:
+Verschiebt deine Änderungen auf einen anderen Stand, als ob du später angefangen hättest. Der Verlauf sieht danach sauberer aus.
 
 3.Git Befehle für die Arbeit mit entfernten Repositories
 
