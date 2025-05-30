@@ -16,6 +16,7 @@ Fügt alle geänderten und neuen Dateien zur Staging Area hinzu. Diese Dateien s
 git commit -m "Nachricht":
 Speichert die gestagten Änderungen dauerhaft im Repository mit einer Kommentar-Nachricht (-m "Nachricht"). Jeder Commit bildet einen Versionspunkt.
 
-
+git status
+Zeigt, welche Dateien geändert, gestaged oder untracked sind. Sehr hilfreich zum Überprüfen vor dem Commit.
 
 3.Git Befehle für die Arbeit mit entfernten Repositories
