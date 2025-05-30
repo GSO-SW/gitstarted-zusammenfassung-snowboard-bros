@@ -25,10 +25,13 @@ Mit git branch kannst du verschiedene Versionen deines Projekts erstellen. So ka
 git log (--graph):
 Listet alle bisherigen Commits auf. --graph zeigt eine grafische Baumstruktur der Commit-Historie.
 
-git ignore
+git ignore:
 Ist eine Datei zum Definieren, welche Dateien Git ignorieren soll.
 
+git merge:
+Fügt zwei Branches zusammen. Die Änderungen aus einem anderen Branch werden in deinen aktuellen Branch übernommen.
 
 
 
 3.Git Befehle für die Arbeit mit entfernten Repositories
+
