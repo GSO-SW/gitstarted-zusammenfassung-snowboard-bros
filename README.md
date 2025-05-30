@@ -46,6 +46,9 @@ Setzt dein Projekt zurück auf einen früheren Zustand.
 
 --hard: alles wird zurückgesetzt – auch deine Dateien!
 
+git revert:
+Erstellt einen neuen Commit, der die Änderungen eines vorherigen Commits rückgängig macht, ohne die Commit-Historie zu verändern. So kannst du Fehler korrigieren, ohne den Verlauf zu löschen oder zu verändern.
+
 
 3.Git Befehle für die Arbeit mit entfernten Repositories
 
