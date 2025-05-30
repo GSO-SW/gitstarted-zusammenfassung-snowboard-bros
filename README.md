@@ -37,5 +37,15 @@ Holt einen einzelnen Commit aus einem anderen Branch in deinen aktuellen Branch.
 git rebase:
 Verschiebt deine Änderungen auf einen anderen Stand, als ob du später angefangen hättest. Der Verlauf sieht danach sauberer aus.
 
+git reset
+Setzt dein Projekt zurück auf einen früheren Zustand.
+
+--soft: nur der Commit wird zurückgenommen.
+
+--mixed: auch die Stage (Index) wird geleert.
+
+--hard: alles wird zurückgesetzt – auch deine Dateien!
+
+
 3.Git Befehle für die Arbeit mit entfernten Repositories
 
