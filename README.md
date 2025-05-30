@@ -22,8 +22,13 @@ Zeigt, welche Dateien geändert, gestaged oder untracked sind. Sehr hilfreich zu
 git branch <name>:
 Mit git branch kannst du verschiedene Versionen deines Projekts erstellen. So kannst du z. B. an neuen Funktionen arbeiten, ohne den Hauptcode zu verändern.
 
-git log
-Listet alle bisherigen Commits auf. Mit --graph wird’s übersichtlicher.
+git log (--graph):
+Listet alle bisherigen Commits auf. --graph zeigt eine grafische Baumstruktur der Commit-Historie.
+
+git ignore
+Ist eine Datei zum Definieren, welche Dateien Git ignorieren soll.
+
+
 
 
 3.Git Befehle für die Arbeit mit entfernten Repositories
