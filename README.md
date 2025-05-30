@@ -63,3 +63,6 @@ Schiebt deine lokalen Commits zu einem entfernten Repository (z. B. GitHub), dam
 
 git fetch:
 Lädt neue Änderungen vom entfernten Repository herunter, ohne sie automatisch in deinen aktuellen Branch zu integrieren
+
+--set-upstream (oder kurz -u):
+Wird beim git push benutzt, um den lokalen Branch mit einem entfernten Branch zu verknüpfen.
