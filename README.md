@@ -22,5 +22,8 @@ Zeigt, welche Dateien geändert, gestaged oder untracked sind. Sehr hilfreich zu
 git branch <name>:
 Mit git branch kannst du verschiedene Versionen deines Projekts erstellen. So kannst du z. B. an neuen Funktionen arbeiten, ohne den Hauptcode zu verändern.
 
+git log
+Listet alle bisherigen Commits auf. Mit --graph wird’s übersichtlicher.
+
 
 3.Git Befehle für die Arbeit mit entfernten Repositories
