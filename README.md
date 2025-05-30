@@ -55,4 +55,7 @@ Erstellt einen neuen Commit, der die Änderungen eines vorherigen Commits rückg
 git clone <URL>:
 Lädt ein komplettes Remote-Repository lokal herunter.
 
+git pull:
+Holt neue Änderungen vom Remote-Branch und merged sie lokal.
+
 
