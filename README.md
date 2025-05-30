@@ -31,6 +31,8 @@ Ist eine Datei zum Definieren, welche Dateien Git ignorieren soll.
 git merge:
 Fügt zwei Branches zusammen. Die Änderungen aus einem anderen Branch werden in deinen aktuellen Branch übernommen.
 
+git cherry-pick:
+Holt einen einzelnen Commit aus einem anderen Branch in deinen aktuellen Branch. Nützlich, wenn du nur eine bestimmte Änderung brauchst.
 
 
 3.Git Befehle für die Arbeit mit entfernten Repositories
