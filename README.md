@@ -60,3 +60,6 @@ Holt neue Änderungen vom Remote-Branch und merged sie lokal.
 
 git push:
 Schiebt deine lokalen Commits zu einem entfernten Repository (z. B. GitHub), damit andere sie sehen und nutzen können.
+
+git fetch:
+Lädt neue Änderungen vom entfernten Repository herunter, ohne sie automatisch in deinen aktuellen Branch zu integrieren
