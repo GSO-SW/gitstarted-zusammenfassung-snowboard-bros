@@ -16,6 +16,8 @@ Fügt alle geänderten und neuen Dateien zur Staging Area hinzu. Diese Dateien s
 git commit -m "Nachricht":
 Speichert die gestagten Änderungen dauerhaft im Repository mit einer Kommentar-Nachricht (-m "Nachricht"). Jeder Commit bildet einen Versionspunkt.
 
+git checkout: Wird verwendet, um zwischen Branches zu wechseln oder einzelne Dateien auf einen früheren Stand zurückzusetzen. So kannst du z. B. von main zu einem Feature-Branch wechseln oder eine Datei aus einem früheren Commit wiederherstellen.
+
 git Status:
 Zeigt, welche Dateien geändert, gestaged oder untracked sind. Sehr hilfreich zum Überprüfen vor dem Commit.
 
