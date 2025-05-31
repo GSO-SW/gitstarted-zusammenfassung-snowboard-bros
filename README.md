@@ -10,9 +10,9 @@ Inhaltsverzeichnis
 3.Git Befehle für die Arbeit mit entfernten Repositories
 
 
-====================================================================================================================
+
                                                       LOKAL
-====================================================================================================================
+
 
 2.1 git init:
 Initialisiert ein neues Git-Repository im aktuellen Verzeichnis. Es erstellt einen versteckten .git-Ordner zur Versionsverwaltung.
@@ -62,9 +62,9 @@ Setzt dein Projekt zurück auf einen früheren Zustand.
 Erstellt einen neuen Commit, der die Änderungen eines vorherigen Commits rückgängig macht, ohne die Commit-Historie zu verändern. So kannst du Fehler korrigieren, ohne den Verlauf zu löschen oder zu verändern.
 
 
-====================================================================================================================
+
                                                       REMOTE
-====================================================================================================================
+
 
 
 3.1 git clone <URL>:
