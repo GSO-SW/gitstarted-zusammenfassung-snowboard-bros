@@ -27,6 +27,9 @@ Der standardmäßige primäre Branch in modernen Git-Repositories (ersetzt histo
 Master:
 Der veraltete Begriff für den primären Branch; heute durch "Main" abgelöst.
 
+Remote:
+Ein externes Repository (z. B. auf GitHub), das als zentrale Quelle für Kollaboration dient.
+
 
                                                       LOKAL
 
