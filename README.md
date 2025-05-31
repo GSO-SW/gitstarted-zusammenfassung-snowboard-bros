@@ -11,6 +11,38 @@ Inhaltsverzeichnis
 
 
 
+                                                    BEGRIFFE
+
+
+Repository:
+Ein Container für Projektdateien, der den vollständigen Versionsverlauf und Metadaten speichert.
+
+Branch:
+Eine isolierte Entwicklungslinie, die Änderungen vom Hauptcode trennt, um Features oder Experimente ohne Risiko zu testen.
+
+Merge:
+Der Prozess, Änderungen aus einem Branch in einen anderen zu integrieren (z. B. Feature-Branch → Main-Branch).
+
+Konflikte:
+Kollidierende Änderungen in derselben Datei, die manuell gelöst werden müssen, bevor ein Merge abgeschlossen werden kann.
+
+Main:
+Der standardmäßige primäre Branch in modernen Git-Repositories (ersetzt historisch "Master").
+
+Master:
+Der veraltete Begriff für den primären Branch; heute durch "Main" abgelöst.
+
+Remote:
+Ein externes Repository (z. B. auf GitHub), das als zentrale Quelle für Kollaboration dient.
+
+Lokal:
+Die Kopie eines Repositories auf dem Entwicklungsrechner, unabhängig vom Remote-Server.
+
+Upstream:
+Das übergeordnete Remote-Repository, von dem Änderungen abgeholt ("pull") oder an das gepusht ("push") wird.
+
+
+
                                                       LOKAL
 
 
