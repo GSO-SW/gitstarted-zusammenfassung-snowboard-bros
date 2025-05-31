@@ -12,6 +12,9 @@ Inhaltsverzeichnis
 Repository:
 Ein Container für Projektdateien, der den vollständigen Versionsverlauf und Metadaten speichert.
 
+Branch:
+Eine isolierte Entwicklungslinie, die Änderungen vom Hauptcode trennt, um Features oder Experimente ohne Risiko zu testen.
+
 
 ====================================================================================================================
                                                       LOKAL
