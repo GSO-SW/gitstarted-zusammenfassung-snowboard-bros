@@ -18,6 +18,8 @@ Eine isolierte Entwicklungslinie, die Änderungen vom Hauptcode trennt, um Featu
 Merge:
 Der Prozess, Änderungen aus einem Branch in einen anderen zu integrieren (z. B. Feature-Branch → Main-Branch).
 
+Konflikte:
+Kollidierende Änderungen in derselben Datei, die manuell gelöst werden müssen, bevor ein Merge abgeschlossen werden kann.
 
 ====================================================================================================================
                                                       LOKAL
