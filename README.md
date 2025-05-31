@@ -33,6 +33,9 @@ Ein externes Repository (z. B. auf GitHub), das als zentrale Quelle für Kollabo
 Lokal:
 Die Kopie eines Repositories auf dem Entwicklungsrechner, unabhängig vom Remote-Server.
 
+Upstream:
+Das übergeordnete Remote-Repository, von dem Änderungen abgeholt ("pull") oder an das gepusht ("push") wird.
+
 
                                                       LOKAL
 
