@@ -15,6 +15,9 @@ Ein Container für Projektdateien, der den vollständigen Versionsverlauf und Me
 Branch:
 Eine isolierte Entwicklungslinie, die Änderungen vom Hauptcode trennt, um Features oder Experimente ohne Risiko zu testen.
 
+Merge:
+Der Prozess, Änderungen aus einem Branch in einen anderen zu integrieren (z. B. Feature-Branch → Main-Branch).
+
 
 
                                                       LOKAL
