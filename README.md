@@ -24,6 +24,8 @@ Kollidierende Änderungen in derselben Datei, die manuell gelöst werden müssen
 Main:
 Der standardmäßige primäre Branch in modernen Git-Repositories (ersetzt historisch "Master").
 
+Master:
+Der veraltete Begriff für den primären Branch; heute durch "Main" abgelöst.
 
 
                                                       LOKAL
