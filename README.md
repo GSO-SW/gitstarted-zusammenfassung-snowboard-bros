@@ -30,6 +30,9 @@ Der veraltete Begriff für den primären Branch; heute durch "Main" abgelöst.
 Remote:
 Ein externes Repository (z. B. auf GitHub), das als zentrale Quelle für Kollaboration dient.
 
+Lokal:
+Die Kopie eines Repositories auf dem Entwicklungsrechner, unabhängig vom Remote-Server.
+
 
 
                                                       LOKAL
