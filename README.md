@@ -10,6 +10,9 @@ Inhaltsverzeichnis
 git init:
 Initialisiert ein neues Git-Repository im aktuellen Verzeichnis. Es erstellt einen versteckten .git-Ordner zur Versionsverwaltung.
 
+git add datei.txt:
+Fügt eine bestimmte Datei zur Staging-Area hinzu.
+
 git add *:
 Fügt alle geänderten und neuen Dateien zur Staging Area hinzu. Diese Dateien sind dann bereit für den nächsten Commit.
 
