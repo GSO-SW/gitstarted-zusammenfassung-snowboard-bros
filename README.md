@@ -21,6 +21,10 @@ Der Prozess, Änderungen aus einem Branch in einen anderen zu integrieren (z. B.
 Konflikte:
 Kollidierende Änderungen in derselben Datei, die manuell gelöst werden müssen, bevor ein Merge abgeschlossen werden kann.
 
+Main:
+Der standardmäßige primäre Branch in modernen Git-Repositories (ersetzt historisch "Master").
+
+
 
                                                       LOKAL
 
