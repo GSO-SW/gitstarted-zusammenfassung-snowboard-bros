@@ -9,6 +9,9 @@ Inhaltsverzeichnis
 
 3.Git Befehle für die Arbeit mit entfernten Repositories
 
+Repository:
+Ein Container für Projektdateien, der den vollständigen Versionsverlauf und Metadaten speichert.
+
 
 ====================================================================================================================
                                                       LOKAL
