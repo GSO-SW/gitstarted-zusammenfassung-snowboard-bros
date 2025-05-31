@@ -9,64 +9,40 @@ Inhaltsverzeichnis
 
 3.Git Befehle für die Arbeit mit entfernten Repositories
 
-Repository:
-Ein Container für Projektdateien, der den vollständigen Versionsverlauf und Metadaten speichert.
-
-Branch:
-Eine isolierte Entwicklungslinie, die Änderungen vom Hauptcode trennt, um Features oder Experimente ohne Risiko zu testen.
-
-Merge:
-Der Prozess, Änderungen aus einem Branch in einen anderen zu integrieren (z. B. Feature-Branch → Main-Branch).
-
-Konflikte:
-Kollidierende Änderungen in derselben Datei, die manuell gelöst werden müssen, bevor ein Merge abgeschlossen werden kann.
-
-Main:
-Der standardmäßige primäre Branch in modernen Git-Repositories (ersetzt historisch "Master").
-
-Master:
-Der veraltete Begriff für den primären Branch; heute durch "Main" abgelöst.
-
-Remote:
-Ein externes Repository (z. B. auf GitHub), das als zentrale Quelle für Kollaboration dient.
-
-Lokal:
-Die Kopie eines Repositories auf dem Entwicklungsrechner, unabhängig vom Remote-Server.
-
-Upstream:
-Das übergeordnete Remote-Repository, von dem Änderungen abgeholt ("pull") oder an das gepusht ("push") wird.
 
 
                                                     BEGRIFFE
 
 
-Repository:
+1.1 Repository:
 Ein Container für Projektdateien, der den vollständigen Versionsverlauf und Metadaten speichert.
 
-Branch:
+1.2 Branch:
 Eine isolierte Entwicklungslinie, die Änderungen vom Hauptcode trennt, um Features oder Experimente ohne Risiko zu testen.
 
-Merge:
+1.3 Merge:
 Der Prozess, Änderungen aus einem Branch in einen anderen zu integrieren (z. B. Feature-Branch → Main-Branch).
 
-Konflikte:
+1.4 Konflikte:
 Kollidierende Änderungen in derselben Datei, die manuell gelöst werden müssen, bevor ein Merge abgeschlossen werden kann.
 
-Main:
+1.5 Main:
 Der standardmäßige primäre Branch in modernen Git-Repositories (ersetzt historisch "Master").
 
-Master:
+1.6 Master:
 Der veraltete Begriff für den primären Branch; heute durch "Main" abgelöst.
 
-Remote:
+1.7 Remote:
 Ein externes Repository (z. B. auf GitHub), das als zentrale Quelle für Kollaboration dient.
 
-Lokal:
+1.8 Lokal:
 Die Kopie eines Repositories auf dem Entwicklungsrechner, unabhängig vom Remote-Server.
 
-Upstream:
+1.9 Upstream:
 Das übergeordnete Remote-Repository, von dem Änderungen abgeholt ("pull") oder an das gepusht ("push") wird.
 
+1.10 Staging Area:
+Ein Zwischenspeicher (auch "Index" genannt), der Änderungen vorbereitet, bevor sie in einem Commit permanent gespeichert werden.
 
 
                                                       LOKAL
