@@ -115,3 +115,83 @@ Lädt neue Änderungen vom entfernten Repository herunter, ohne sie automatisch 
 
 3.5 --set-upstream (oder kurz -u):
 Wird beim git push benutzt, um den lokalen Branch mit einem entfernten Branch zu verknüpfen.
+
+
+# Bewertung der Git-Zusammenfassung
+SnowBoard Bros
+
+## 1. Fachbegriffe
+
+**Erreichte Punkte:** 3
+
+**Begründung:**
+- Die Begriffe sind **korrekt**, **klar** und **verständlich** erklärt.
+- Wichtige Konzepte wie *Repository*, *Branch*, *Staging Area*, *Merge*, *Remote*, *Upstream* usw. sind enthalten.
+- Zusätzliche relevante Begriffe wie *Main* und *Master* werden differenziert erklärt, inklusive historischem Kontext.
+- Fachliche Tiefe (z. B. Erklärung von *Konflikten*, *Main/Master*) zeigt fundiertes Verständnis.
+
+**Verbesserungsvorschläge:**
+- Die Begriffe könnten alphabetisch oder thematisch gruppiert werden, um die Übersichtlichkeit weiter zu verbessern.
+
+---
+
+## 2. Befehle lokale Arbeit
+
+**Erreichte Punkte:** 2
+
+**Begründung:**
+- Die lokalen Git-Befehle sind **vollständig**, **korrekt erklärt** und gut **strukturiert**.
+- Auch fortgeschrittene Befehle wie `git cherry-pick`, `git rebase`, `git revert` und Varianten von `git reset` sind enthalten.
+- Es werden zusätzlich Hinweise gegeben, z. B. zu den Reset-Modi `--soft`, `--mixed`, `--hard`, die Erläuterungen hierzu sind korrekt.
+- Hinweise, wann bestimmte Befehle nützlich sind (z. B. „so kannst du …“) erleichtern das Verständnis.
+
+**Verbesserungsvorschläge:**
+- Eine klarere Formatierung (z. B. Tabellenstruktur oder visuelle Trennung von Befehl, Beschreibung, Beispiel) könnte die Lesbarkeit verbessern.
+- Typische Fehlermeldung und der Umgang damit würden die Zusammenfassung noch lesenswerter machen!
+
+---
+
+## 3. Befehle entfernte Arbeit
+
+**Erreichte Punkte:** 2
+
+**Begründung:**
+- Alle zentralen Remote-Befehle (`git clone`, `git pull`, `git push`, `git fetch`, `--set-upstream`) sind enthalten und **verständlich erklärt**.
+- Die Funktionen der Befehle sind **präzise**, mit Fokus auf Praxisbezug (z. B. „damit andere sie sehen und nutzen können“).
+- Die Abgrenzung zwischen `fetch` und `pull` wird korrekt beschrieben, was oft ein Stolperstein ist.
+
+**Verbesserungsvorschläge:**
+- Eine klarere Formatierung (z. B. Tabellenstruktur oder visuelle Trennung von Befehl, Beschreibung, Beispiel) könnte die Lesbarkeit verbessern.
+- Hinweise auf potenzielle Konflikte oder empfohlene Reihenfolgen in der Anwendung wären ein wünschenswert.
+
+---
+
+## 4. Zusammenarbeit über GitHub
+
+**Erreichte Punkte:** 3
+
+**Begründung anhand des Git-Graphen:**
+- **Branching-Strategie**: Es wurden mehrere Feature-Branches verwendet (`Marwin`, `david`), was auf ein gutes Verständnis der Arbeitsteilung hinweist.
+- **Merge-Vorgänge**: Wiederholte Merges aus den Feature-Branches in `master` zeigen, dass Beiträge zusammengeführt wurden. Die Einträge „Merge branch 'Marwin'“ und „Merge branch 'david'“ belegen dies mehrfach.
+- **Verlaufsstruktur**: Die saubere Baumstruktur mit regelmäßigen und zahlreichen Commits aus verschiedenen Zweigen zeigt ein durchdachtes Vorgehen und Kollaboration.
+- **Commitnachrichten**: Die Commitnachrichten sind (wenn auch knapp) inhaltlich aussagekräftig.
+
+
+
+
+
+## Zusammenfassung
+
+| Kriterium                 | Punkte (max. 3) |
+|---------------------------|-----------------|
+| Fachbegriffe              | 3               |
+| Befehle lokale Arbeit     | 2               |
+| Befehle entfernte Arbeit  | 2               |
+| Zusammenarbeit            | 3               |
+| **Gesamt**                | **10/12**       |
+   
+--> **83% --> gut (12 NP.)**
+
+
+
+
